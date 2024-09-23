@@ -5,27 +5,27 @@
         "categories": [
             {
                 "id": "cat1",
-                "title": "Snacks",
+                "title": "Закуски",
                 "image": "https://res.cloudinary.com/dn4pokov0/image/upload/v1611311563/d3f69e36ea17c0e0bb129ba1403e24dc.png"
             },
             {
                 "id": "cat2",
-                "title": "Pizzas",
+                "title": "Піца",
                 "image": "https://cdn.iconscout.com/icon/free/png-256/pizza-618-1114742.png"
             },
             {
                 "id": "cat3",
-                "title": "Nigerian Dishes",
+                "title": "Екзотична кухня",
                 "image": "https://res.cloudinary.com/dn4pokov0/image/upload/v1623330069/afrocaribbean-food-color-icon-fish-260nw-1972641911.jpg_copy.png"
             },
             {
                 "id": "cat5",
-                "title": "Vegetarian Dishes",
+                "title": "Вегетеріанське меню",
                 "image": "https://icons.iconarchive.com/icons/google/noto-emoji-food-drink/512/32395-green-salad-icon.png"
             },
             {
                 "id": "cat4",
-                "title": "Sea Foods",
+                "title": "Рибне",
                 "image": "https://res.cloudinary.com/dn4pokov0/image/upload/v1611313714/fish-plate-food-fish-and-meat-98912.jpg.png"
             }
         ],
@@ -38,48 +38,69 @@
                 "calories": 585
             },
             {
-                "id": "pop2",
-                "name": "Cassava Flakes",
-                "description": "Garri, otherwise known as Cassava Flakes, is one of the main sources of carbohydrates and a popular staple food in Nigeria. It is a local delicacy eaten across Nigeria, usually mixed with sugar, milk, etc and eaten however you desire.",
-                "image": "https://static.tildacdn.com/stor3139-3236-4834-a165-623764366562/96487230.png",
-                "calories": 102
+                "id": "item24",
+                "name": "Лосось 4х сет 845г",
+                "description": "Чеддер з лососем\nРолл з чукою і смаженим лососем\nКаліфорнія лосось\nГункан з лососем 2 шт\nСмачний сет для любителів лосося",
+                "image": "https://static.tildacdn.com/stor3563-3630-4634-b931-353137306531/39621992.jpg",
+                "calories": 545
             },
             {
-                "id": "pop3",
-                "name": "Grilled Cheese",
-                "description": "A toasted sandwich, grilled cheese sandwich, cheese toastie, or grilled cheese is a hot sandwich made with one or more varieties of cheese on bread.",
-                "image": "https://hips.hearstapps.com/hmg-prod/images/grilled-cheese-horizontal-jpg-1522266016.jpg",
-                "calories": 1022
+                "id": "item25",
+                "name": "Вугор 4х сет 875г",
+                "description": "Чеддер з вугрем\nФіладельфія з вугрем\nРолл з чукою і вугрем\nНігірі вугор 2 шт\nСмачний сет для любителів вугря",
+                "image": "https://static.tildacdn.com/stor6330-3265-4339-a330-363230306231/38358335.jpg",
+                "calories": 680
             },
             {
-                "id": "pop4",
-                "name": "Pasta Carbonara",
-                "description": "The carbonara we know today is prepared by simply tossing spaghetti with guanciale (cured pork jowl), egg yolks, and Pecorino Romano cheese. Despite its simplicity, this dish remains one of Rome's favorites, equally popular throughout the country.",
-                "image": "https://cdn.tasteatlas.com/images/dishes/990d2b4155d248ff8838ca8350be1d78.jpg?w=905&h=510",
-                "calories": 302
+                "id": "item26",
+                "name": "Тунец 4х сет 875г",
+                "description": "Каліфорнія смажений тунець\nРолл з чукою і смаженим тунцем\nЧеддер з тунцем\nНігірі тунець 2 шт\nСмачний сет для любителів тунця",
+                "image": "https://static.tildacdn.com/stor3038-6632-4263-b936-383435306666/10997805.jpg",
+                "calories": 95
             },
             {
-                "id": "pop5",
-                "name": "Kasha",
-                "description": "The fundamental dish of Russian cuisine is known as kasha, a porridge that has represented an essential Russian meal for centuries. Russian kasha refers to various dishes which are created with cereals, most commonly rice, wheat, or millet, and pseudocereals like buckwheat and quinoa.",
-                "image": "https://cdn.tasteatlas.com//Images/Dishes/ee60c7c639314b76918e97a37e547531.jpg?width=660&height=420",
+                "id": "bugrer1",
+                "name": "Бургер Sun City з яловичою котлетою",
+                "description": "Булка кругла з кунжутом, реліш, котлета яловича, листя салату, помідор, сир тостовий, цибуля маринована, майонез кетчуп.",
+                "image": "https://static.tildacdn.com/stor6465-6262-4437-b835-313931353938/88760785.jpg",
                 "calories": 599
+            },
+            {
+                "id": "kebab1",
+                "name": "Шаурма з сиром",
+                "description": "Лаваш, філе куряче запечене, капуста , морква по-корейськи, огірок солений,сир тостовий 2 шт, майонез, гірчиця, соус сацебелі, соус часниковий.\nСмачна та сита",
+                "image": "https://static.tildacdn.com/stor6531-6665-4336-b465-636434383565/23049868.jpg",
+                "calories": 90
             }
         ],
         "specials": [
             {
-                "id": "item30",
-                "name": "Jollof Rice",
-                "description": "Jollof rice is Nigeria's national dish. In order to prepare it, rice is cooked in a rich tomato sauce so that it soaks in all the flavors. The most common ingredients found in jollof rice include rice, tomatoes, tomato paste, onions, salt, and pepper.",
-                "image": "https://cdn.tasteatlas.com/images/dishes/41ca6dfc48714647a813a6c1333a9e94.jpg?mw=1300",
-                "calories": 1200
+                "id": "oil5",
+                "name": "Олія 5л",
+                "description": "Рослинна соняшникова олія Сонечко – якісний, 100% натуральний український продукт.\nРафінована, дезодорована, виморожена, виготовлена згідно ГОСТ: 4492: 2005.\nЗолотиста за кольором, з приємним запахом.\nПризначена для смаження, випікання печива та бісквітів, тушкування.\nНе пінниться! 🔥",
+                "image": "https://raw.githubusercontent.com/merenkoff/zruchnoserver/refs/heads/main/wwwdata/images/oil.jpg",
+                "calories": 225
+            },
+            {
+                "id": "meet1",
+                "name": "Свинина",
+                "description": "Стегно 129 грн/кг\nЛопатка 129 грн/кг\nБиток 180грн/кг\nКістка борщова 54 грн/кг\nСало 150 грн/кг\nПідчеревина 150 грн/кг\nГоляшка 75 грн/кг\nЩока 70грн /кг\nПечінка 48 грн/кг",
+                "image": "https://raw.githubusercontent.com/merenkoff/zruchnoserver/refs/heads/main/wwwdata/images/meet.jpg",
+                "calories": 150
+            },
+            {
+                "id": "pumcake50",
+                "name": "Млинці",
+                "description": "Млинці з бананом та яблуком.\n50 грн/кг",
+                "image": "https://raw.githubusercontent.com/merenkoff/zruchnoserver/refs/heads/main/wwwdata/images/pumcake.jpg",
+                "calories": 50
             },
             {
                 "id": "pop5",
-                "name": "Roti",
-                "description": "Roti is a flat and unleavened bread made with wholemeal flour. It is traditionally cooked on an iron griddle called tava, an important vessel in the Indian cuisine. In Indian cuisine, roti is as essential as rice. There are several theories regarding its origin.",
-                "image": "https://cdn.tasteatlas.com/Images/Dishes/1bd5e63b79b344ef9b56cc6480470dba.jpg?mw=1300",
-                "calories": 300
+                "name": "Яйця 🥚",
+                "description": "В наявності є свіжі яйця - 12 грн 🥚",
+                "image": "https://raw.githubusercontent.com/merenkoff/zruchnoserver/refs/heads/main/wwwdata/images/egs.jpg",
+                "calories": 12
             }
         ]
     }
