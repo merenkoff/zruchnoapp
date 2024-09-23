@@ -32,10 +32,10 @@
         "populars": [
             {
                 "id": "item12",
-                "name": "Pizza Napoletana",
-                "description": "The dough is comprised of wheat flour, yeast, salt, and water and is left to rise for up to 24 hours. It's shaped by hand into a flat, round disk, about 3 millimeters thick. After that, it's topped with ingredients and baked for 90 seconds in a blisteringly hot (around 900°F) wood-burning oven. The result is a soft, elastic heart with a tall, fluffy crust called the cornicione in Italian. You can find this variety at your local Eataly's La Pizza & La Pasta restaurant.",
+                "name": "Креветка 4х сет 880 г",
+                "description": "Чеддер з креветкою\nФіладельфія з креветкою\nРолл з чукою і креветкою\nГункан з креветкою 2 шт\nСмачний сет для любителів креветки",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg",
-                "calories": 120
+                "calories": 585
             },
             {
                 "id": "pop2",
